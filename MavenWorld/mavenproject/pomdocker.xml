@@ -74,6 +74,7 @@
             <artifactId>maven-ear-plugin</artifactId>
             <configuration>
                 <unpackTypes>war</unpackTypes>
+                <failOnMissingWebXml>false</failOnMissingWebXml>
             </configuration>
         </plugin>
        </plugins>
