@@ -72,6 +72,7 @@
         </plugin>
         <plugin>
             <artifactId>maven-ear-plugin</artifactId>
+            <version>3.0.0</version>
             <configuration>
                 <unpackTypes>war</unpackTypes>
                 <failOnMissingWebXml>false</failOnMissingWebXml>
